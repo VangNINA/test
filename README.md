@@ -1,5 +1,5 @@
 # Test project
-## This is a description of the project
+## This is _hardly_ a description of the project
 
 1. You should really not bother to clone this project
 2. Just **delete**
